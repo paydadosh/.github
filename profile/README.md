@@ -22,6 +22,7 @@ word forms and paradigms, a spell-checker, a phrasebook, a library of digitized 
 | Project | What it is |
 |---|---|
 | [**paydadosh-mcp**](https://github.com/paydadosh/paydadosh-mcp) | Open read-only [MCP](https://modelcontextprotocol.io) server: connect the dictionary to Claude, ChatGPT, Cursor and other AI assistants. Endpoint: `https://mcp.paydadosh.ru/mcp` |
+| [**ingush-frequency**](https://github.com/paydadosh/ingush-frequency) | Frequency dictionary of Ingush: 27,774 words with per-genre frequencies from a 2.46-million-token corpus (CC BY 4.0) |
 
 ### Apps
 
